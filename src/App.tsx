@@ -1,3 +1,4 @@
+import React from "react";
 
 export function App() {
 
@@ -5,5 +6,4 @@ export function App() {
     <h1>Hello World</h1>
   )
 }
-
 
